@@ -1,0 +1,13 @@
+documentation of project
+      
+        I have created a simple web page food and dining.Fruits and vegetables have gained considerable commercial importance all over the World, contributing
+significantly to the economics of many countries. They are important supplement to the nutritional
+requirements in the human diet as they provide the essential minerals, vitamins and fiber required for
+maintaining health.
+        The purpose of the project is to create a system of mobile application to access by thecustomer 
+to book the vegetable of a particular store with specific details. So that there will beno wastage of time.
+        In  my project I have created a simple vegetable, fruits and grocery online shopping store. In my 
+project I used bootstrap 5.1. I have used Navigation Bar,Carousel,Cards in my project. I have added banner, 
+html ,css and js concepts for looking very good.I have also added header and  footer section in my project.
+I have used different type of images in my peoject.Main objective is to provide ordering and reservation 
+vegetable to customer.
